@@ -1,0 +1,1 @@
+some examples of how to do seeding with dynamic associations in sequelize.
